@@ -1,0 +1,10 @@
+pwd- to find out where we are
+man- to exlpain command and other details in it
+ls- list files
+cd- change directory
+mkdir- to create new folders
+touch- to create new files
+cat- to view content in file
+cat > file name- to edit or to put inputs in file
+cp- copy files
+mv- move files
