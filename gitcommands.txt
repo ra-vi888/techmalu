@@ -2,4 +2,6 @@ git pull origin main -to ensure we are up to date
 git branch <branch_name>  Create a New Branch
 git checkout <branch_name>  Switch to the New Branch:
 git push origin <branch_name> Push Your Changes:
-
+git branch -a  to know at what branch we are at
+code .    to open file
+git branch -d  to delete branch
